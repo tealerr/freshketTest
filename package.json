@@ -1,0 +1,16 @@
+{
+  "name": "freshkettest",
+  "version": "1.0.0",
+  "description": "for test software engineer ",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "teeramate.kan",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.3"
+  }
+}
