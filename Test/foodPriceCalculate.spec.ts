@@ -1,6 +1,6 @@
-import { test, describe } from 'node:test';
+import { describe, test } from '@jest/globals';
 import assert from 'node:assert';
-import { FoodSet, calculateTotalPrice } from '../Service/foodPriceCalculate'; // Adjust the import path accordingly
+import { FoodSet, calculateTotalPrice } from '../src/foodPriceCalculate'; 
 
 describe('calculateTotalPrice', () => {
 

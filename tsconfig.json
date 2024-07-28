@@ -17,7 +17,7 @@
   "include": [
     "src/**/*.ts",
     "tests/**/*.ts"
-  ],
+, "src/foodPriceCalculate.ts"  ],
   "exclude": [
     "node_modules",
     "dist"
